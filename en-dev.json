@@ -34,7 +34,6 @@
     "e.g.": "eg",
     "vs.": "vs",
     "etc.": "etc",
-    "No.": "No",
     "Jan.": "Jan",
     "Feb.": "Feb",
     "Mar.": "Mar",
@@ -113,8 +112,9 @@
     "Surg.": "Surg",
     "v.": "v",
     "rev.": "rev",
+    "No.": "No#NUMERIC_ONLY#",
     "Nos.": "Nos",
-    "Art.": "Art",
+    "Art.": "Art#NUMERIC_ONLY#",
     "Nr.": "Nr",
-    "pp.": "pp"
+    "pp.": "pp#NUMERIC_ONLY#"
   }
