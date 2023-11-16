@@ -1,4 +1,5 @@
 {
+    "alphanumeric": {
     "Mr.": "Mr",
     "Mrs.": "Mrs",
     "Dr.": "Dr",
@@ -111,10 +112,13 @@
     "Supt.": "Supt",
     "Surg.": "Surg",
     "v.": "v",
-    "rev.": "rev",
+    "rev.": "rev"
+},
+    "numeric": {
     "No.": "No",
     "Nos.": "Nos",
     "Art.": "Art",
     "Nr.": "Nr",
     "pp.": "ppN"
   }
+}
