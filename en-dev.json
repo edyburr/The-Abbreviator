@@ -112,9 +112,9 @@
     "Surg.": "Surg",
     "v.": "v",
     "rev.": "rev",
-    "No.": "No#NUMERIC_ONLY#",
+    "No.": "No",
     "Nos.": "Nos",
-    "Art.": "Art#NUMERIC_ONLY#",
+    "Art.": "Art",
     "Nr.": "Nr",
-    "pp.": "pp#NUMERIC_ONLY#"
+    "pp.": "pp"
   }
